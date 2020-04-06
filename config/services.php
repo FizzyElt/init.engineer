@@ -95,4 +95,8 @@ return [
         'scopes' => [],
         'with' => [],
     ],
+
+    'discord' => [
+        'token' => env('DISCORD_TOKEN'),
+    ],
 ];

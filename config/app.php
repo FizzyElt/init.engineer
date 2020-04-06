@@ -205,6 +205,7 @@ return [
         /**
          * Custom Providers
          */
+        NotificationChannels\Discord\DiscordServiceProvider::class,
     ],
 
     /*
