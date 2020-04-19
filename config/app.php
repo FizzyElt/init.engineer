@@ -201,6 +201,10 @@ return [
         App\Providers\HelperServiceProvider::class,
         App\Providers\ObserverServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
+
+        /**
+         * Custom Providers
+         */
     ],
 
     /*
